@@ -5,4 +5,4 @@ cache:
   directories:
     - node_modules
 script:
-  - ./build/build.sh
+  - ./build/build-and-test.sh
