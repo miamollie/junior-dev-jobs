@@ -10,7 +10,7 @@ module.exports = {
     filename: 'app.bundle.js'
   },
   module: {
-    rulez: [
+    rules: [
       {
         test: /\.js$/,
         loader: 'babel-loader',
@@ -34,4 +34,3 @@ module.exports = {
   },
   devtool: 'source-map'
 };
-
