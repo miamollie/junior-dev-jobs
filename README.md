@@ -2,34 +2,34 @@
 
 Jobs for junior developers
 
-### Clone the repo
+### Fork & clone the repo
 
 `git clone https://lukemesiti@bitbucket.org/juniordevio/junior_dev_jobs.git`// your version
 
 ### Change into folder
 
-`cd junior_dev_jobs`
+* `cd junior_dev_jobs`
 
 ### Install
 
 After cloning the git repo:
 
-`npm install`
+* `npm install`
 
 ### Build
 
-`npm run webpack`
+* `npm run webpack`
 
 ### Build - development
 
-`npm run webpack-watch`
+* `npm run webpack-watch`
 
 ### Test
 
-`npm run test`
+* `npm run test`
 
 ### Run
 
-`npm start`
+* `npm start`
 
 Browse to localhost:3000 to view

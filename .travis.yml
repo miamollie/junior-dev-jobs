@@ -6,3 +6,4 @@ cache:
     - node_modules
 script:
   - ./build/build-and-test.sh
+install: true
