@@ -4,7 +4,7 @@ Jobs for junior developers
 
 ### Clone the repo
 
-`git clone https://lukemesiti@bitbucket.org/juniordevio/junior_dev_jobs.git`
+`git clone https://lukemesiti@bitbucket.org/juniordevio/junior_dev_jobs.git`// your version
 
 ### Change into folder
 
@@ -24,7 +24,7 @@ After cloning the git repo:
 
 `npm run webpack-watch`
 
-### Test 
+### Test
 
 `npm run test`
 
